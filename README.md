@@ -46,3 +46,13 @@ https://www.caseyliss.com/2016/12/20/rxswift-primer-part-2
 https://www.caseyliss.com/2016/12/20/rxswift-primer-part-3
 
 https://www.caseyliss.com/2016/12/20/rxswift-primer-part-4
+
+http://adamborek.com/thinking-rxswift/
+
+http://adamborek.com/practical-introduction-rxswift/
+
+http://adamborek.com/how-to-handle-errors-in-rxswift/
+
+https://hackernoon.com/rxrecipes-wrap-your-way-to-rx-fd40eb5254b6
+
+http://rx-marin.com/post/rxswift-retry-with-delay/
