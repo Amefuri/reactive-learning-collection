@@ -39,4 +39,10 @@ http://rx-marin.com/tags/rxswift/
 
 http://adamborek.com/top-7-rxswift-mistakes/
 
+https://www.caseyliss.com/2016/12/20/rxswift-primer-part-1
+
+https://www.caseyliss.com/2016/12/20/rxswift-primer-part-2
+
+https://www.caseyliss.com/2016/12/20/rxswift-primer-part-3
+
 https://www.caseyliss.com/2016/12/20/rxswift-primer-part-4
