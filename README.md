@@ -4,9 +4,13 @@
 [Rx Learning]
 
 http://swiftpearls.com/RxSwift-for-dummies-1-Observables.html
+
 http://swiftpearls.com/RxSwift-for-dummies-2-Operators.html
+
 http://swiftpearls.com/RxSwift-for-dummies-3-Subjects.html
+
 http://swiftpearls.com/RxSwift-Safety-Manual.html
+
 http://swiftpearls.com/mvvm-state-manage.html
 
 https://medium.com/@pepibumur/command-pattern-made-reactive-4cfed5e911fd#.5p0hdzbra
